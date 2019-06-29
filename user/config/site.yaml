@@ -1,0 +1,16 @@
+title: 'Services Digitaux sur Dijon et Lyon'
+default_lang: fr
+author:
+  name: 'Julien Pichon'
+  email: ncpmedia21@gmail.com
+taxonomies:
+  - category
+  - tag
+  - author
+summary:
+  enabled: true
+  format: short
+  size: 300
+  delimiter: '==='
+blog:
+  route: /blog

@@ -1,0 +1,23 @@
+enabled: true
+custom_logo:
+  user/themes/hola/images/logo/logo.png:
+    name: logo.png
+    type: image/png
+    size: 5238
+    path: user/themes/hola/images/logo/logo.png
+footer-text: '© Copyright NCP Multimédia 2019'
+footer-design: 
+footer-social:
+  -
+    socialIconClass: 'fa fa-facebook-square'
+    socialIconText: Facebook
+    socialIconLink: 'https://www.facebook.com/devlom'
+  -
+    socialIconClass: 'fa fa-twitter'
+    socialIconText: Twitter
+    socialIconLink: 'https://twitter.com/'
+  -
+    socialIconClass: 'fa fa-instagram'
+    socialIconText: Instagram
+    socialIconLink: '#0'
+footer-additional-text: 
